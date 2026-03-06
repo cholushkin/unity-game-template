@@ -1,3 +1,24 @@
 [submodule "ScriptUtils"]
 	path = ScriptUtils
 	url = https://github.com/cholushkin/script-utils.git
+[submodule "CodingConvention"]
+	path = CodingConvention
+	url = https://github.com/cholushkin/coding-convention.git
+[submodule "Unity/Game/Assets/Libs/Gamelib"]
+	path = Unity/Game/Assets/Libs/Gamelib
+	url = https://github.com/cholushkin/gamelib.git
+[submodule "Unity/Game/Assets/Libs/TinyColor"]
+	path = Unity/Game/Assets/Libs/TinyColor
+	url = https://github.com/cholushkin/TinyColor.git
+[submodule "Unity/Game/Assets/Libs/TowerGenerator"]
+	path = Unity/Game/Assets/Libs/TowerGenerator
+	url = https://github.com/cholushkin/towergenerator.git
+[submodule "Unity/Game/Assets/Libs/uconsole"]
+	path = Unity/Game/Assets/Libs/uconsole
+	url = https://github.com/cholushkin/uconsole.git
+[submodule "Unity/Game/Assets/Libs/UMoonSharp"]
+	path = Unity/Game/Assets/Libs/UMoonSharp
+	url = https://github.com/cholushkin/umoonsharp.git
+[submodule "Unity/Game/Assets/Libs/VersionHistory"]
+	path = Unity/Game/Assets/Libs/VersionHistory
+	url = https://github.com/cholushkin/VersionHistory.git
