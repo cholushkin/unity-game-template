@@ -1,0 +1,17 @@
+## Dependencies    
+
+- csprojmodifier: "https://github.com/Cysharp/CsprojModifier.git"
+- unitask: "https://github.com/Cysharp/UniTask.git"
+- zlogger: "https://github.com/Cysharp/ZLogger.git"
+- naughtyattributes: "https://github.com/cholushkin/NaughtyAttributes.git#upm"
+- ezsoftbone: "https://github.com/EZhex1991/EZSoftBone.git"
+- nugetforunity: "https://github.com/GlitchEnzo/NuGetForUnity.git"
+- "vitalrouter": "https://github.com/hadashiA/VitalRouter.git"
+- "https://github.com/cholushkin/gamelib.git"
+- "https://github.com/cholushkin/TinyColor.git"
+- "https://github.com/cholushkin/towergenerator.git"
+- "https://github.com/cholushkin/uconsole.git"
+- "https://github.com/cholushkin/umoonsharp.git"
+- "https://github.com/cholushkin/VersionHistory.git"
+- "https://github.com/cholushkin/script-utils.git"
+- "https://github.com/cholushkin/coding-convention.git"

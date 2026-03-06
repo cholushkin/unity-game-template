@@ -6,3 +6,14 @@
 /Unity/Game/Assembly-CSharp.csproj
 /Unity/Game/Assembly-CSharp-Editor.csproj
 /Unity/Game/Game.sln
+/Unity/Game/Assets/Packages
+/Unity/Game/Assets/Packages.meta
+/Unity/Game/DOTween.Modules.csproj
+/Unity/Game/Egg.TinyColor.Runtime.Tests.csproj
+/Unity/Game/Egg.TinyColor.Runtime.csproj
+/Unity/Game/GameLib.Editor.csproj
+/Unity/Game/GameLib.csproj
+/Unity/Game/IngameDebugConsole.Runtime.csproj
+/Unity/Game/TowerGenerator.Editor.csproj
+/Unity/Game/TowerGenerator.csproj
+/Unity/Game/umoonsharp.csproj
