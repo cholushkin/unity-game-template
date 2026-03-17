@@ -3,7 +3,7 @@
   - you clone to "YourProjectName"
   - you update submodules
   - you can start writing your game
-  - you rename project name only in unity hub. Your project directory always stay the same "Unity/Game"
+  - you rename project name only in unity hub and your root folder name. Your project directory always stay the same "Unity/Game"
 - connected modules
   - submodule: ScriptUtils
     - added UserScriptsCoding. Some basic scripts for prompting and project maintainance
