@@ -4,7 +4,6 @@
 - unitask: "https://github.com/Cysharp/UniTask.git"
 - zlogger: "https://github.com/Cysharp/ZLogger.git"
 - naughtyattributes: "https://github.com/cholushkin/NaughtyAttributes.git#upm"
-- ezsoftbone: "https://github.com/EZhex1991/EZSoftBone.git"
 - nugetforunity: "https://github.com/GlitchEnzo/NuGetForUnity.git"
 - "vitalrouter": "https://github.com/hadashiA/VitalRouter.git"
 - "https://github.com/cholushkin/gamelib.git"
