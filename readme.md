@@ -28,6 +28,7 @@
   - scenes prepared to work with gamelib convention
   - ignore file configured
   - asmdefs configured
+  - C#10 support via csprojmodifier (LangVersion.props integrated + csc.rsp). Waiting full C#10 support in Unity (2027?)
   
 
  
