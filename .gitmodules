@@ -19,3 +19,6 @@
 [submodule "Unity/Game/Assets/Libs/VersionHistory"]
 	path = Unity/Game/Assets/Libs/VersionHistory
 	url = https://github.com/cholushkin/VersionHistory.git
+[submodule "DevConventions"]
+	path = DevConventions
+	url = https://github.com/cholushkin/dev-conventions.git
