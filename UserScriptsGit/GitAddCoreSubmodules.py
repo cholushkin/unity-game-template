@@ -32,3 +32,7 @@ GitSubmoduleManager().add_git_submodule(
 GitSubmoduleManager().add_git_submodule(
     "https://github.com/cholushkin/VersionHistory.git", 
     "Unity/Game/Assets/Libs/VersionHistory")
+
+GitSubmoduleManager().add_git_submodule(
+    "https://github.com/cholushkin/dev-conventions.git", 
+    "DevConventions")
