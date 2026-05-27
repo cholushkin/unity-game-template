@@ -15,7 +15,8 @@ Analyze the dependencies within a Unity project and compile a comprehensive Mark
 Output:
 * Create a structured Markdown file with the following sections:
   * Introduction: Provide a brief overview of the importance of managing dependencies in Unity projects, highlighting how various dependency sources contribute to the project structure.
-  * Dependencies Table: A comprehensive table with columns for Source, Dependency Name, Version/URL, and Notes.
+  * Dependencies Table: A comprehensive table with columns for Source, Dependency Name, Version, URL, and Notes.
+  * URl should bi hiiden under link (so the table is not bloated)
   * Notes: Include any observations or remarks regarding manual dependencies or notable patterns in the dependency structure.
 
 Ensure clarity and consistency in formatting, adhering to standard Markdown practices.

@@ -32,3 +32,7 @@ GitSubmoduleManager().add_git_submodule(
 GitSubmoduleManager().add_git_submodule(
     "https://github.com/cholushkin/dev-conventions.git", 
     "DevConventions")
+    
+GitSubmoduleManager().add_git_submodule(
+    "https://github.com/cholushkin/CVB.git", 
+    "Unity/Game/Assets/Libs/CVB")
