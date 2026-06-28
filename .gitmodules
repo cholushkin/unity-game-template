@@ -20,8 +20,5 @@
 	path = Unity/Game/Assets/Libs/VersionHistory
 	url = https://github.com/cholushkin/VersionHistory.git
 [submodule "DevConventions"]
-	path = DevConventions
-	url = https://github.com/cholushkin/dev-conventions.git
-[submodule "Unity/Game/Assets/Libs/CVB"]
-	path = Unity/Game/Assets/Libs/CVB
-	url = https://github.com/cholushkin/CVB.git
+    path = DevConventions
+    url = https://github.com/cholushkin/dev-conventions.git
