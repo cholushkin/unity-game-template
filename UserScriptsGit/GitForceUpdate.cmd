@@ -1,1 +1,0 @@
-gitutils --action force_update

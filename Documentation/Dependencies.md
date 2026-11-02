@@ -1,7 +1,5 @@
 # Dependencies
-Legend:
-+ added 
-- not added
+Legend: `+` added by default; `-` not added by default;
 
 - GameLib ( UPM git install: https://github.com/cholushkin/gamelib.git )
   + alchemy

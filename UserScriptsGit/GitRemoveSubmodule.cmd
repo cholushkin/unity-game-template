@@ -1,1 +1,0 @@
-gitutils --action remove_submodule --submodule_path "ScriptUtils"
